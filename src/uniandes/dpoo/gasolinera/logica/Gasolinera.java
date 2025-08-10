@@ -16,6 +16,8 @@ import uniandes.dpoo.gasolinera.exceptions.GasolinaInsuficienteException;
 import uniandes.dpoo.gasolinera.utils.Sorteo;
 
 /**
+ * ESTE ES UN CAMBIO DE PRUEBA
+ * 
  * Esta clase tiene la información de una Gasolinera incluyendo los tipos de gasolina, los empleados y los surtidores
  */
 public class Gasolinera
